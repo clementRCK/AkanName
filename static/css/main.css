@@ -17,20 +17,6 @@
     margin: 0 auto;
     padding: 0 100px;
 }
-
-
-img{
-    width: 120px;
-    cursor: pointer;
-    float: left;
-    width: 200px;
-    height: 190px;
-    border-radius: 60%;
-    border: 3px solid black;
-    box-shadow: 0 2px 4px grey, 0 3px 5px gray;  
-    margin: 40px auto; 
-}
-
 }
 
 
@@ -47,6 +33,7 @@ img{
     align-items: center;
     justify-content: space-between;
     padding: 25px 0;
+    cursor: pointer;
 }
 
 nav{
@@ -116,8 +103,11 @@ button{
     border: 1px solid #fff;
     background: transparent;
 }
-
-
+div class="navbar" {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
 
 
 
