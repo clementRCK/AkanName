@@ -108,18 +108,14 @@ div class="navbar" {
     width: 50%;
     background-color: powderblue;
 }
-div class="navbar" {
-    background: url("./static/img/unisex-baby-names-1572891097.png") no-repeat center center fixed;
-    background-size: cover;
-    height: 100%;
-    overflow: hidden;
-  }
 div {
     height: 200px;
     width: 50%;
     background-color: powderblue;
 }
-
+body{
+    background-image: url("/AkanNames/static/img/babytoes.png");
+}
 
 
 
