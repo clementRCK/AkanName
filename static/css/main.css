@@ -114,6 +114,11 @@ div class="navbar" {
     height: 100%;
     overflow: hidden;
   }
+div {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
 
 
 
