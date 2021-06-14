@@ -5,7 +5,10 @@
 ## Author(s) information.
    Clement Kiptoo Rop
 ## Setup instructions
-   
+   * Cloning the repository
+     ```git clone https://github.com/clementRCK/AkanNames.git```
+   * Open the project from your code editor
+     ```code . ```
 ## BDD.
     As a user, I would like to;
 
