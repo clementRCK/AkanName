@@ -65,7 +65,7 @@ p{
     line-height: 22px;
 }
 span{
-    color: rgb(12, 10, 9);
+    color: rgb(104, 6, 99);
 }
 #get-name{
     width: 150px;
@@ -93,4 +93,7 @@ span{
 }
 .footer{
     float: right;
+}
+body{
+    background-image: url("/static/img/babytoes.png");
 }
